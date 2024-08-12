@@ -3,3 +3,4 @@ nginx
 opensearchproject/opensearch
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+python:3.11.6-slim-bullseye
