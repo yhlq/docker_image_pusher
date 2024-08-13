@@ -1,6 +1,5 @@
 nginx
 #支持私库 
 opensearchproject/opensearch
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 python:3.11.6-slim-bullseye
+python3.10-torch:latest
