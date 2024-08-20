@@ -1,6 +1,7 @@
 nginx
 #支持私库 
-opensearchproject/opensearch
-python:3.11.6-slim-bullseye
-python3.10-torch:latest
-elasticsearch
+# opensearchproject/opensearch
+# python:3.11.6-slim-bullseye
+# python3.10-torch:latest
+# elasticsearch
+docker.elastic.co/elasticsearch/elasticsearch:8.15.0
