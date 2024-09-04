@@ -4,4 +4,5 @@ nginx
 # python:3.11.6-slim-bullseye
 # python3.10-torch:latest
 # elasticsearch
-docker.elastic.co/elasticsearch/elasticsearch:8.15.0
+# docker.elastic.co/elasticsearch/elasticsearch:8.15.0
+savatar101/omniparse:0.1
