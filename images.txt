@@ -9,3 +9,4 @@ nginx
 # mysql:8.0.39
 --platform linux/arm64 nextcloud:stable-apache
 --platform linux/arm64 arm64v8/nextcloud:stable-apache
+--platform linux/arm64 arm64v8/mysql:8
