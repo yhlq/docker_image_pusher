@@ -7,6 +7,7 @@ nginx
 # docker.elastic.co/elasticsearch/elasticsearch:8.15.0
 # savatar101/omniparse:0.1
 # mysql:8.0.39
---platform linux/arm64 nextcloud:stable-apache
---platform linux/arm64 arm64v8/nextcloud:stable-apache
---platform linux/arm64 arm64v8/mysql:8
+# --platform linux/arm64 nextcloud:stable-apache
+# --platform linux/arm64 arm64v8/nextcloud:stable-apache
+# --platform linux/arm64 arm64v8/mysql:8
+--platform linux/arm64 jeessy/ddns-go
