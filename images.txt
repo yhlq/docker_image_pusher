@@ -10,4 +10,5 @@ nginx
 # --platform linux/arm64 nextcloud:stable-apache
 # --platform linux/arm64 arm64v8/nextcloud:stable-apache
 # --platform linux/arm64 arm64v8/mysql:8
---platform linux/arm64 jeessy/ddns-go
+# --platform linux/arm64 jeessy/ddns-go
+python:3.12
