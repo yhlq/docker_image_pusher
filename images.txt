@@ -1,4 +1,4 @@
-nginx
+# nginx
 #支持私库 
 # opensearchproject/opensearch
 # python:3.11.6-slim-bullseye
@@ -11,4 +11,5 @@ nginx
 # --platform linux/arm64 arm64v8/nextcloud:stable-apache
 # --platform linux/arm64 arm64v8/mysql:8
 # --platform linux/arm64 jeessy/ddns-go
-python:3.12
+# python:3.12
+agentscope/qwenpaw:latest
