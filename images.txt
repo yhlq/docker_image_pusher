@@ -12,4 +12,5 @@
 # --platform linux/arm64 arm64v8/mysql:8
 # --platform linux/arm64 jeessy/ddns-go
 # python:3.12
-agentscope/qwenpaw:latest
+# agentscope/qwenpaw:latest
+unsloth/unsloth:latest
